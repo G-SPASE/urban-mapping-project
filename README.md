@@ -1,7 +1,7 @@
 # urban-mapping
 Urban Mapping Project wiki
 
-* Data collection in Yangon
+## Data collection in Yangon
 
   [x] Road Network and building boundary data collection (existing)
   [x] Road network, building boundary, POI collection from OSM
