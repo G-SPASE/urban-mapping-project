@@ -46,5 +46,5 @@ Urban Mapping Project wiki
   - [ ] Web client application (Xia)
 
 ## Applications for urban problems
-	- [ ] Transportation cluster detection with road network from OSM and vehicle detection from aerial imagery (Miyazawa)
-	- [ ] Web-based routing application between POIs for tourists (Xia)
+	[ ] Transportation cluster detection with road network from OSM and vehicle detection from aerial imagery (Miyazawa)
+	[ ] Web-based routing application between POIs for tourists (Xia)
