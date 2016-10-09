@@ -2,8 +2,8 @@
 Urban Mapping Project wiki
 
 ## Data collection in Yangon
-    [x] Road Network and building boundary data collection (existing)
-    [x] Road network, building boundary, POI collection from OSM
+- [x] Road Network and building boundary data collection (existing)
+- [x] Road network, building boundary, POI collection from OSM
   - [x] SNS data and Geo-tagged photo collection
   - [ ] Satellite imagery collection and processing (Yamamoto with the shared tool) 
 	  - [ ] Store in S3
