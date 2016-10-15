@@ -1,6 +1,14 @@
-# urban-mapping
+# urban-mapping-project
 Urban Mapping Project wiki
 
+# GitHub repositories
+- Project overview (here): https://github.com/G-SPASE/urban-mapping-project
+- POI filter tool (private): https://github.com/G-SPASE/osmdata
+- Bing image downloading tool (private)
+- Network & Urban cluster detection (private): https://github.com/G-SPASE/urban-cluster-detection
+- Web-based routing app (private)
+
+# Project overview
 ## Data collection in Yangon
 - [x] Road Network and building boundary data collection (existing)
 - [x] Road network, building boundary, POI collection from OSM
