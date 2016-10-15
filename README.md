@@ -4,7 +4,7 @@ Urban Mapping Project wiki
 # GitHub repositories
 - Project overview (here): https://github.com/G-SPASE/urban-mapping-project
 - POI filter tool (private): https://github.com/G-SPASE/osmdata
-- Bing image downloading tool (private)
+- Bing image downloading tool (private): https://github.com/G-SPASE/bingaerial-downloader
 - Network & Urban cluster detection (private): https://github.com/G-SPASE/urban-cluster-detection
 - Web-based routing app (private)
 
